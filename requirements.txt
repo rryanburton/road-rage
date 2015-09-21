@@ -1,0 +1,2 @@
+ipython[all]
+matplotlib==1.4.3
